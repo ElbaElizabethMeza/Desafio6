@@ -1,0 +1,30 @@
+
+
+body nav img{
+    width: 100px;
+    padding: 0 10px;
+    height: 80px;
+    background-color:rgb(183, 128, 228) ;
+}
+
+.card {
+    width: 18rem;
+}
+
+#center {
+    text-align: -webkit-center;
+}
+
+.logo img{
+    width: 100px;
+    padding: 0 10px;
+    height: 80px;
+}
+
+.Catalogo_txt{
+    text-align: center;
+    margin: 10px;
+    padding: 3% 20%;
+    background-color: rgb(149, 238, 241);
+    font-size: 20px;
+}
